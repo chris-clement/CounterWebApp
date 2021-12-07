@@ -8,3 +8,5 @@ gem 'pg'
 gem "rspec"
 gem "sinatra"
 gem 'capybara'
+
+gem "nokogiri", "~> 1.10"
